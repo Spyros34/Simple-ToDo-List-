@@ -61,6 +61,6 @@ Begin managing your tasks by visiting http://localhost:8000. The interface is in
 
 Contact
 
-Spyros - GitHub Profile
+Spyros - https://github.com/Spyros34
 
 Project Link: https://github.com/Spyros34/Simple-ToDo-List-.git
