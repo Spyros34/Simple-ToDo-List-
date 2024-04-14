@@ -11,16 +11,13 @@ Simple ToDo List App
 
 Description
 
-This Simple ToDo List application is a straightforward, yet powerful, tool built using Laravel. It's designed to help users manage their daily tasks efficiently, allowing for task additions, updates, deletions, and categorizations all within a user-friendly interface.
+This Simple ToDo List application is a straightforward, yet powerful, tool built using Laravel. It's designed to help users manage their daily tasks efficiently, allowing for task additions, updates and deletions all within a user-friendly interface.
 
 Features
 
 Add Tasks: Easily add new tasks to your list.
 Edit Tasks: Update details of existing tasks as your needs change.
 Delete Tasks: Remove completed or unnecessary tasks.
-Task Categorization: Organize tasks into custom categories for better management.
-Responsive UI: Access your tasks seamlessly both on desktop and mobile devices.
-Installation
 
 Prerequisites
 PHP 7.3 or higher
@@ -31,7 +28,7 @@ Setup Instructions
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/Spyros34/Simple-ToDo-List.git
+git clone https://github.com/Spyros34/Simple-ToDo-List-.git
 cd Simple-ToDo-List
 Install Dependencies
 bash
@@ -62,21 +59,8 @@ Usage
 
 Begin managing your tasks by visiting http://localhost:8000. The interface is intuitive, guiding you through adding, editing, and deleting tasks.
 
-Contributing
-
-Contributions to enhance or expand the functionality of this ToDo list are welcome and appreciated. To contribute:
-
-Fork the Repository
-Create a Feature Branch (git checkout -b feature/YourAmazingFeature)
-Commit your Changes (git commit -m 'Add some YourAmazingFeature')
-Push to the Branch (git push origin feature/YourAmazingFeature)
-Open a Pull Request
-License
-
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
-
 Contact
 
 Spyros - GitHub Profile
 
-Project Link: https://github.com/Spyros34/Simple-ToDo-List
+Project Link: https://github.com/Spyros34/Simple-ToDo-List-.git
